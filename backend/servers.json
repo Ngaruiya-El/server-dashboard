@@ -1,0 +1,42 @@
+[
+  {
+    "name": "DNS Server",
+    "ip": "10.100.0.22"
+  },
+  {
+    "name": "AD for Exchange",
+    "ip": "10.100.0.221"
+  },
+  {
+    "name": "Smart AD",
+    "ip": "10.100.0.233"
+  },
+  {
+    "name": "Participate",
+    "ip": "41.76.171.33"
+  },
+  {
+    "name": "Email Server",
+    "ip": "41.76.171.150"
+  },
+  {
+    "name": "HR, Customer Service and Legal DB  Server",
+    "ip": "172.16.10.3"
+  },
+  {
+    "name": "Active Directory",
+    "ip": "10.241.18.151"
+  },
+  {
+    "name": "GIS Server",
+    "ip": "10.241.18.152"
+  },
+  {
+    "name": "Web Server",
+    "ip": "10.241.18.33"
+  },
+  {
+    "name": "Email (Microsoft Exchange)",
+    "ip": "10.241.18.150"
+  }
+]
